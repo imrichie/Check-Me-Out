@@ -1,6 +1,6 @@
 # Check Me Out
 
-### Description
+## Description
 
 Check Me Out is a Java-based command-line application that allows users to manage a virtual library. Users can view, add, and remove books from the library, providing an interactive and straightforward way to maintain a collection of books.
 
